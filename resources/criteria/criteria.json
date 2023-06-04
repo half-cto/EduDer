@@ -25,5 +25,49 @@
             "name": "Citas intereses",
             "imageUrl": "https://img.freepik.com/premium-vector/various-hobbies-icons-selection-white-background-vector_532963-598.jpg?w=2000"
         }
+    ],
+    "IzglitibasIeguvesVeides": [
+        {
+            "id": "",
+            "name": "Klātiene",
+            "imageUrl": ""
+        },
+        {
+            "id": "",
+            "name": "Neklātiene",
+            "imageUrl": ""
+        },
+        {
+            "id": "",
+            "name": "Tālmācība",
+            "imageUrl": ""
+        }
+    ],
+    "V": {},
+    "IzglitibasTematiskaGrupa": [
+        {
+            "id": "2",
+            "name": "Izglītība, humanitārās zinātnes un māksla",
+            "imageUrl": "",
+            "childProgrammId": [1, 2]
+        },
+        {
+            "id": "3",
+            "name": "Sociālās zinātnes, komerczinības un tiesības",
+            "imageUrl": "",
+            "childProgrammId": [3]
+        },
+        {
+            "id": "4",
+            "name": "Dabaszinātnes, matemātika un informācijas tehnoloģijas",
+            "imageUrl": "",
+            "childProgrammId": [4]
+        },
+        {
+            "id": "5",
+            "name": "Dabaszinātnes, matemātika un informācijas tehnoloģijas",
+            "imageUrl": "",
+            "childProgrammId": [4]
+        }
     ]
 }
